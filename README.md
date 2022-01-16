@@ -1,4 +1,4 @@
-# MLH-chrome-extension
+<h1 align="center">MLH-chrome-extension</h1>
 
 #### This project is build at time of [MLH Local Hack Day Build 2022]().
 
